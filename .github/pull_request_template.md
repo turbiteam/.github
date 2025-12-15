@@ -13,7 +13,7 @@
 <!-- how:end -->
 
 
-## Comentários: <!-- comments:init -->
+## Comentários (opcional): <!-- comments:init -->
 
 
 <!-- comments:end -->
