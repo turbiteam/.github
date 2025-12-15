@@ -7,7 +7,7 @@
 <!-- why:end -->
 
 
-## Como: <!-- how:init:required -->
+## Como? <!-- how:init:required -->
 
 
 <!-- how:end -->
